@@ -57,16 +57,6 @@ This keygen has been developed with security best practices:
 - Clean code with no malicious payload
 - Verified safe by multiple security scanners
 
-## 📞 Support
-
-For issues or questions:
-- Open an issue in this repository
-- Ensure you have the correct Java version installed
-- Check that Burp Suite Pro is properly installed before activation
-
-## 📄 License
-
-This project is for educational purposes only. Users must comply with Burp Suite's official license terms and applicable laws in their jurisdiction.
 
 ---
 
