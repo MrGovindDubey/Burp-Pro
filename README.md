@@ -1,6 +1,6 @@
 
 
-<img width="1200" height="700" alt="image" src="https://github.com/user-attachments/assets/042e705b-fa17-4d57-ac1a-8df673d4d6ec" />
+<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/042e705b-fa17-4d57-ac1a-8df673d4d6ec" />
 
 # Burp Suite Pro Keygen
 
